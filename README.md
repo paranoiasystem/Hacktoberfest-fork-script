@@ -4,4 +4,4 @@ Hacktoberfest-fork-script
 Happy Hacking!
 
 This repo is for http://hacktoberfest.digitalocean.com/
-Thanks for visiting
+Thanks for visiting!
